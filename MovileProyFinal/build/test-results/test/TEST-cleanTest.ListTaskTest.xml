@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.ListTaskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-23T14:18:50" hostname="DESKTOP-C5KQN11" time="48.816">
+  <properties/>
+  <testcase name="verifyTaskNew()" classname="cleanTest.ListTaskTest" time="48.816"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct. 23, 2022 2:19:08 A. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
